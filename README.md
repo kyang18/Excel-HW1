@@ -1,2 +1,2 @@
-# Homework1
-First assignment
+# Excel Homework: Kickstart My Chart
+First assignment of DS Bootcamp
